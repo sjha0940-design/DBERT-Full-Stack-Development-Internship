@@ -20,8 +20,8 @@ The project was officially published on the DBERT Engineering Blog along with a 
 ### Project Links
 
 - **Live Application:** https://alkame-nifty-50-educational-6udynjpgiy6vbhrsmzcn8i.streamlit.app/
-- **Engineering Case Study:** [Add your DBERT case study link]
-- **GitHub Repository:** [Add your project repository link]
+- **Engineering Case Study:** https://github.com/sjha0940-design/alkame-nifty-50-educational
+- **GitHub Repository:** https://alkame-nifty-50-educational-6udynjpgiy6vbhrsmzcn8i.streamlit.app/
 
 ### Key Learning Areas
 
